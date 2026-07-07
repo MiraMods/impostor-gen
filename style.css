@@ -1,8 +1,8 @@
 @font-face {
-    font-family: AloneOnEarth;
+    font-family: VCR_OSD_MONO;
     font-style: normal;
     font-weight: normal;
-    src: local('AloneOnEarth'), url('AloneOnEarthRegular.ttf') format('truetype');
+    src: local('VCR_OSD_MONO'), url('VCR_OSD_MONO.ttf') format('truetype');
 }
 
 html, body {
@@ -11,7 +11,7 @@ html, body {
 }
 
 body {
-    background-color: #252525;
+    background-color: #403f3f;
 }
 
 .container {
@@ -24,9 +24,10 @@ body {
 }
 
 .site-title {
-    font-family: AloneOnEarth;
+    font-family: VCR_OSD_MONO;
     font-size: 6rem;
-    margin-bottom: -1.5rem;
+    color: red;
+    margin-bottom: 0.5rem;
 }
 
 .site-subtitle {

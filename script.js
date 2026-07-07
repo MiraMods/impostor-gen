@@ -1,4 +1,4 @@
-var DEFAULT_REGION_NAME = "Impostor";
+var DEFAULT_REGION_NAME = "MiraServer";
 var SERVER_PORT = 22023;
 
 $(document).ready(function () {
